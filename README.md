@@ -1,170 +1,182 @@
-<div dir="rtl" align="right">
+<p align="center">
+  <img src="assets/portfolio/bon-github-cover.jpg" alt="پوستر معرفی پروژه بُن | فروشگاه اینترنتی قهوه" width="100%" />
+</p>
 
-# بُن | فروشگاه قهوه و ابزار دم‌آوری
-
-نمونه‌ای تمام‌صفحه و واکنش‌گرا برای یک فروشگاه قهوه؛ با فرانت‌اند فارسی و راست‌چین، و یک API مستقل با **Django REST Framework** و **PostgreSQL**.
-
-**[مشاهدهٔ دموی آنلاین فرانت‌اند](https://bon-demo-showcase.netlify.app/)**
-
-> **وضعیت انتشار:** سایت Netlify فقط فرانت‌اند ایستا را میزبانی می‌کند. بک‌اند Django و پایگاه دادهٔ PostgreSQL این پروژه در حال حاضر محلی هستند و به‌صورت عمومی مستقر نشده‌اند. قابلیت‌های وابسته به API را با اجرای محلی پروژه آزمایش کنید.
-
-## پیش‌نمایش
+<h1 align="center">☕ بُن | فروشگاه اینترنتی قهوه</h1>
 
 <p align="center">
-  <a href="assets/coffee-hero.mp4">
-    <img src="assets/coffee-poster.jpg" alt="پوستر ویدیویی فروشگاه بُن" width="760">
+  تجربه‌ای مدرن از خرید قهوه، همراه با بک‌اند اختصاصی و APIهای قابل توسعه
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-5.2-163B2E?style=flat-square" alt="Django 5.2" />
+  <img src="https://img.shields.io/badge/DRF-REST_API-963D2F?style=flat-square" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/JavaScript-Vanilla-F0DB4F?style=flat-square" alt="Vanilla JavaScript" />
+</p>
+
+<p align="center">
+  <a href="https://bon-demo-showcase.netlify.app/">🌐 مشاهده دموی سایت</a>
+  &nbsp;·&nbsp;
+  <a href="assets/portfolio/bon-original-walkthrough-optimized.mp4">🎬 ویدیوی معرفی</a>
+  &nbsp;·&nbsp;
+  <a href="assets/portfolio/bon-project-showcase.jpg">🖼️ پوستر پروژه</a>
+</p>
+
+<div dir="rtl">
+
+> **توجه:** لینک Netlify در حال حاضر دموی عمومی **فرانت‌اند** است. بک‌اند Django و پایگاه داده هنوز به‌صورت عمومی منتشر نشده‌اند؛ بنابراین قابلیت‌های نیازمند API آنلاین در این نسخه قابل تضمین نیستند. پرداخت در پروژه صرفاً **آزمایشی** است و هیچ تراکنش بانکی واقعی انجام نمی‌شود.
+
+## ✨ درباره پروژه
+
+**بُن** نمونه‌کاری از یک فروشگاه اینترنتی فارسی برای قهوه و لوازم دم‌آوری است. تمرکز پروژه بر ترکیب یک رابط کاربری زیبا و واکنش‌گرا با بک‌اند ساختاریافته با **Django REST Framework** و **PostgreSQL** است.
+
+این مخزن برای نمایش مهارت‌های توسعه بک‌اند، طراحی REST API، مدل‌سازی پایگاه داده، اعتبارسنجی، کنترل دسترسی کاربران و مدیریت جریان سفارش ساخته شده است.
+
+## 🎞️ پیش‌نمایش متحرک واقعی
+
+تصویر زیر از **ویدیوی واقعی سایت** استخراج شده؛ با انتخاب آن، نسخه ویدیویی معرفی باز می‌شود.
+
+</div>
+
+<p align="center">
+  <a href="assets/portfolio/bon-original-walkthrough-optimized.mp4">
+    <img src="assets/portfolio/bon-animated-hero-small.gif" alt="انیمیشن واقعی بنر قهوه بُن" width="760" />
   </a>
-  <br>
-  <a href="assets/coffee-hero.mp4">▶ تماشای ویدیوی معرفی فروشگاه</a>
 </p>
 
-تصاویر واقعی محصولات موجود در پروژه:
+<div dir="rtl">
+
+## 📸 تصاویر واقعی سایت
+
+تصاویر زیر از فیلم و اسکرین‌شات خود سایت تهیه شده‌اند و با پوسترهای تبلیغاتی بازطراحی‌شده تفاوت دارند.
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" align="center"><img src="assets/portfolio/homepage-original.jpg" alt="نمای واقعی صفحه اصلی و محصولات قهوه بُن" width="100%" /></td>
+    <td width="50%" align="center"><img src="assets/portfolio/products-original.jpg" alt="نمای واقعی بخش لوازم و محصولات فروشگاه" width="100%" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>صفحه اصلی و محصولات</strong></td>
+    <td align="center"><strong>بخش تجهیزات و محصولات</strong></td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="assets/coffee-1.webp" alt="قهوه" width="22%">
-  <img src="assets/coffee-2.webp" alt="محصول قهوه" width="22%">
-  <img src="assets/tool-1.webp" alt="ابزار دم‌آوری قهوه" width="22%">
-  <img src="assets/tool-2.webp" alt="ابزار قهوه" width="22%">
+  <img src="assets/portfolio/mobile-homepage.jpg" alt="نمای واقعی صفحه اصلی در موبایل، بدون نوار آدرس مرورگر" width="340" />
 </p>
 
-## امکانات
+<div dir="rtl">
 
-### فروشگاه و فرانت‌اند
+## 🧩 امکانات پیاده‌سازی‌شده
 
-- رابط کاربری فارسی و راست‌چین، واکنش‌گرا و مبتنی بر HTML، CSS و JavaScript خالص
-- صفحهٔ اصلی فروشگاه، دسته‌بندی‌ها، جست‌وجو و مسیرهای نمایش محصولات
-- تصاویر محصولات، بنر ویدیویی و انیمیشن‌های موجود در طراحی
-- فهرست ایستای محصولات برای پیش‌نمایش فروشگاه
+- **کاتالوگ محصولات:** دریافت محصولات و دسته‌بندی‌ها، جستجو و فیلتر از طریق API.
+- **حساب کاربران:** ثبت‌نام، ورود، خروج و پروفایل با احراز هویت مبتنی بر نشست (Session).
+- **علاقه‌مندی‌ها:** ذخیره و مدیریت محصولات انتخاب‌شده برای هر کاربر.
+- **سبد خرید:** افزودن و حذف کالا، تغییر تعداد و محاسبه مبلغ سمت سرور.
+- **سفارش‌ها:** ثبت سفارش، مشاهده سوابق و پیگیری وضعیت با کنترل دسترسی.
+- **پرداخت نمایشی:** شبیه‌سازی مرحله پرداخت، بدون درگاه یا انتقال وجه واقعی.
+- **پنل مدیریت:** مدیریت محصولات و سفارش‌ها از طریق Django Admin.
+- **مستندات API:** رابط Swagger / OpenAPI برای بررسی endpointها.
 
-### API و بک‌اند
-
-- API کاتالوگ برای دسته‌بندی‌ها، فهرست محصولات و جزئیات هر محصول
-- ثبت‌نام، ورود، خروج و پروفایل با احراز هویت نشست Django و محافظت CSRF
-- علاقه‌مندی‌ها و سبد خرید ماندگار برای کاربران، همراه با کنترل تعداد
-- ثبت سفارش در پایگاه داده با محاسبهٔ سمت سرور برای قیمت، ارسال و کد تخفیف
-- تاریخچه و جزئیات سفارش و پیگیری با کد سفارش
-- پرداخت **کاملاً شبیه‌سازی‌شده**؛ هیچ درگاه بانکی یا تراکنش واقعی وجود ندارد
-- پنل مدیریت Django و مستندات OpenAPI / Swagger
-
-## فناوری‌ها
+## 🛠️ فناوری‌ها
 
 | بخش | فناوری |
 | --- | --- |
 | بک‌اند | Python 3.11، Django 5.2، Django REST Framework |
-| پایگاه داده | PostgreSQL؛ برای توسعهٔ محلی می‌توان از SQLite استفاده کرد |
-| مستندات API | drf-spectacular، OpenAPI و Swagger UI |
-| ارتباط فرانت‌اند و API | JavaScript خالص، نشست Django، کوکی و CSRF |
-| اجرا و CI | Docker Compose و GitHub Actions |
+| پایگاه داده | PostgreSQL |
+| فرانت‌اند | HTML، CSS و Vanilla JavaScript |
+| مستندسازی | drf-spectacular و OpenAPI |
+| کانتینرسازی | Docker و Docker Compose |
+| تست خودکار | Django Test Framework و GitHub Actions |
+| رابط کاربری | فارسی، راست‌به‌چپ و واکنش‌گرا |
 
-## ساختار پروژه
+## 🏗️ معماری کلی
 
-```text
-.
-├── assets/                 تصاویر، فونت و ویدیوی پیش‌نمایش
-├── backend/
-│   ├── catalog/            دسته‌بندی‌ها و محصولات
-│   ├── shop/               کاربران، علاقه‌مندی، سبد و سفارش
-│   └── config/              تنظیمات و مسیرهای Django
-├── .github/workflows/ci.yml
-├── app.js
-├── integration.js
-├── index.html
-├── products.js
-├── styles.css
-├── Dockerfile
-└── compose.yaml
+</div>
+
+```mermaid
+flowchart TB
+    A[Frontend: HTML / CSS / JavaScript] -->|HTTP / REST| B[Django REST Framework]
+    B --> C[(PostgreSQL)]
+    D[Django Admin] --> B
+    E[Swagger / OpenAPI] --> B
 ```
 
-## اجرای محلی
+<div dir="rtl">
 
-پیش‌نیازها: Python 3.11 یا جدیدتر و Node.js برای بررسی syntax جاوااسکریپت. برای اجرای PostgreSQL از Docker اختیاری است.
+## 🚀 راه‌اندازی محلی
 
-۱. وابستگی‌های بک‌اند را نصب کنید:
+برای اجرای پروژه، Python و PostgreSQL و دسترسی به تنظیمات محیطی مناسب لازم است. فایل `backend/.env.example` الگوی متغیرهای لازم است و نباید رمز عبور واقعی را وارد Git کرد.
 
-```powershell
+</div>
+
+```bash
+# Install dependencies in an active Python virtual environment
+pip install -r backend/requirements.txt
+
 cd backend
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-```
-
-۲. فایل نمونهٔ تنظیمات را کپی کنید و فقط تنظیمات محلی را وارد کنید:
-
-```powershell
-Copy-Item .env.example .env
-```
-
-در `backend/.env` یک `DJANGO_SECRET_KEY` خصوصی تنظیم کنید. برای اجرای امن روی SQLite محلی، `SQLITE_NAME=local.sqlite3` بگذارید و تمام متغیرهای `DB_NAME`، `DB_USER`، `DB_PASSWORD`، `DB_HOST` و `DB_PORT` را خالی نگه دارید. بدین ترتیب مهاجرت‌های توسعه به PostgreSQL محلی شما وصل نمی‌شوند. فایل `.env` محرمانه است و نباید commit شود.
-
-۳. با فعال‌بودن محیط مجازی و همچنان از پوشهٔ `backend`، دیتابیس SQLite محلی را آماده و API را اجرا کنید:
-
-```powershell
 python manage.py migrate
-python manage.py runserver 127.0.0.1:8000
+python manage.py seed_catalog
+python manage.py runserver
 ```
 
-۴. در یک ترمینال دیگر، از پوشهٔ اصلی پروژه فرانت‌اند را سرو کنید:
+<div dir="rtl">
 
-```powershell
-python -m http.server 5500
-```
+سپس API از نشانی `http://127.0.0.1:8000/` در دسترس خواهد بود. برای جلوگیری از مشکلات Cookie و CSRF، فرانت‌اند را نیز با سرور HTTP محلی و تنظیمات Origin صحیح اجرا کنید؛ بازکردن فایل HTML با `file://` برای آزمایش کامل احراز هویت توصیه نمی‌شود.
 
-سپس [http://127.0.0.1:5500](http://127.0.0.1:5500) را باز کنید. فرانت‌اند محلی API را به‌طور پیش‌فرض از `http://127.0.0.1:8000` فراخوانی می‌کند. برای بارگذاری کاتالوگ ایستا در دیتابیس محلی، از دستور `python manage.py seed_catalog --if-empty` استفاده کنید.
+### اجرای Docker
 
-برای سرویس جداگانهٔ فرانت‌اند و بک‌اند، `window.BON_API_BASE_URL` را پیش از بارگذاری `app.js` روی مبدأ API تنظیم کنید. در محیط‌های HTTPS، دامنه‌های دقیق را در `CORS_ALLOWED_ORIGINS` و `CSRF_TRUSTED_ORIGINS` بگذارید و کوکی‌های امن و تنظیمات مناسب نشست cross-site را فعال کنید.
+در صورت نصب و اجرای Docker Desktop / Docker Engine، ابتدا مقادیر لازم را مطابق تنظیمات `compose.yaml` مشخص کنید و سپس:
 
-## Docker Compose
+</div>
 
-از پوشهٔ اصلی پروژه اجرا کنید:
-
-```powershell
+```bash
 docker compose up --build
 ```
 
-Compose سرویس PostgreSQL و Django را با volume پایدار بالا می‌آورد؛ سرویس وب پس از سلامت دیتابیس، migrationها و بارگذاری اولیهٔ کاتالوگ را اجرا می‌کند. PostgreSQL به پورت میزبان منتشر نمی‌شود تا با PostgreSQL محلی تداخل نداشته باشد. مقادیر پیش‌فرض Compose صرفاً برای توسعهٔ محلی‌اند؛ برای استقرار واقعی از مقادیر محرمانه و سرور مناسب production استفاده کنید. سرور همراه Dockerfile، سرور توسعهٔ Django است و برای production در نظر گرفته نشده است.
+<div dir="rtl">
 
-## API و مستندات
+> **وضعیت Docker:** ساختار Compose بررسی شده، ولی طبق آخرین گزارش توسعه، اجرای کامل کانتینرها با Docker Engine هنوز تأیید نشده است.
 
-پس از اجرای بک‌اند محلی:
+## 📖 مستندات و تست‌ها
 
-- طرح OpenAPI: [http://127.0.0.1:8000/api/schema/](http://127.0.0.1:8000/api/schema/)
-- رابط Swagger: [http://127.0.0.1:8000/api/docs/](http://127.0.0.1:8000/api/docs/)
-- احراز هویت: `/api/auth/csrf/`، `/api/auth/register/`، `/api/auth/login/`، `/api/auth/logout/`، `/api/auth/profile/`
-- کاتالوگ: `/api/categories/`، `/api/products/`
-- کاربر و سفارش: `/api/favorites/`، `/api/cart/`، `/api/orders/`، `/api/orders/create/`، `/api/payments/simulated/`
+با اجرای بک‌اند به‌صورت محلی:
 
-## آزمون و یکپارچه‌سازی پیوسته
+- **Swagger UI:** `http://127.0.0.1:8000/api/docs/`
+- **OpenAPI Schema:** `http://127.0.0.1:8000/api/schema/`
 
-در پوشهٔ `backend`:
+</div>
 
-```powershell
+```bash
+cd backend
 python manage.py check
-python manage.py makemigrations --check --dry-run
 python manage.py test
 ```
 
-دستور معمول `manage.py test` تنظیمات ایزوله را انتخاب می‌کند، بارگذاری `.env` را غیرفعال می‌کند و از SQLite حافظه‌ای برای دیتابیس آزمون استفاده می‌کند. فایل `.env` یا دیتابیس PostgreSQL محلی برای اجرای این آزمون‌ها لازم نیست. از `--settings=config.settings` برای آزمون استفاده نکنید، مگر آنکه دیتابیس هدف را خودتان کاملاً ایزوله کرده باشید.
+<div dir="rtl">
 
-از ریشهٔ پروژه، بررسی‌های فرانت‌اند و Compose:
+در بررسی‌های فعلی، **۱۱ تست Django** موفق بوده‌اند و اجرای GitHub Actions روی مخزن عمومی نیز موفق گزارش شده است. وضعیت هر اجرای جدید باید در تب Actions بررسی شود.
 
-```powershell
-node --check app.js
-node --check integration.js
-docker compose config --quiet
-```
+## 🖼️ پوستر معرفی
 
-GitHub Actions از Python 3.11 و سرویس PostgreSQL مجزا استفاده می‌کند و بررسی Django، سازگاری migrationها، migration دیتابیس CI، تست‌های بک‌اند و syntax جاوااسکریپت را اجرا می‌کند.
+پوسترهای گرافیکی برای معرفی پروژه بازطراحی شده‌اند؛ **نمایش واقعی صفحات سایت** در تصاویر و ویدیوی بالا قابل بررسی است.
 
-## نکات مهم و محدودیت‌ها
+</div>
 
-- دموی عمومی Netlify فقط فرانت‌اند را نمایش می‌دهد و به بک‌اند عمومی متصل نیست؛ قابلیت‌های وابسته به API در آن فعال نیستند.
-- قیمت‌ها، موجودی و اطلاعات فروشگاه نمایشی‌اند؛ فروش واقعی انجام نمی‌شود.
-- پرداخت فقط برای نمایش جریان سفارش شبیه‌سازی شده است؛ اطلاعات بانکی وارد نکنید.
-- بک‌اند، دیتابیس production، درگاه پرداخت واقعی و فرایند استقرار production در این پروژه منتشر نشده‌اند.
-- برای اتصال آیندهٔ فرانت‌اند Netlify به یک بک‌اند، ابتدا بک‌اند را جداگانه و امن مستقر و HTTPS، CORS، CSRF، میزبان‌ها و کوکی‌ها را پیکربندی کنید.
+<p align="center">
+  <img src="assets/portfolio/bon-project-showcase.jpg" alt="پوستر گرافیکی معرفی بخش‌های پروژه قهوه بُن" width="100%" />
+</p>
+
+<div dir="rtl">
 
 ---
 
-ساخته‌شده برای نمایش تجربهٔ طراحی فروشگاه فارسی و یکپارچه‌سازی فرانت‌اند با API جنگو.
+**☕ بُن — تلفیق طراحی چشم‌نواز و مهندسی بک‌اند.**
+
+[مشاهده دموی فرانت‌اند](https://bon-demo-showcase.netlify.app/)
 
 </div>
